@@ -17,12 +17,12 @@ const Skills = () => {
                         <h2 data-aos="fade-up"
      data-aos-duration="3000">Next.js</h2>
                         <h2 data-aos="fade-up"
-     data-aos-duration="3000">Typescript</h2>
+     data-aos-duration="3000">CSS</h2>
 
                     </div>
                     <div className='space-y-4'>
                         <h2 data-aos="fade-up"
-     data-aos-duration="3000">CSS</h2>
+     data-aos-duration="3000">Typescript</h2>
                         <h2 data-aos="fade-up"
      data-aos-duration="3000">Node.js</h2>
                         <h2 data-aos="fade-up"

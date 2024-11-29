@@ -13,7 +13,7 @@ const Hero = () => {
         <div className='text-[30px] sm:text-[90px] font-bold leading-tight flex justify-center items-center'>
         <div>
           <p data-aos="fade-up"
-     data-aos-duration="3000">I'm</p>
+     data-aos-duration="3000">I&apos;m</p>
           <p data-aos="fade-up"
      data-aos-duration="3000">Muneeb</p>
           <p data-aos="fade-up"

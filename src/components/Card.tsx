@@ -12,10 +12,10 @@ const Card:React.FC<propsType> = ({title, desc, img, tags }) => {
     <div className='border border-accent w-[300px] sm:w-[350px]'data-aos="fade-up"
     data-aos-duration="3000">
       <div>
-        <Image className='w-[300px] sm:w-[350px] h-auto'
+        <Image className='w-[300px] sm:w-[350px] h-[350px] object-cover'
         src={img}
         width={350}
-        height={350}
+        height={300}
         alt={title}
         />
       </div>
